@@ -7,7 +7,7 @@ export const profile = {
   email: "shivanimenaria1@gmail.com",
   phone: "7357767963",
   linkedin: "https://linkedin.com/in/shivani-menaria-681a13346",
-  github: "https://github.com/shivanimenaria",
+  github: "https://github.com/shivanimenaria1-sys",
   resumePath: "/shivani-menaria-resume.pdf",
   about:
     "I enjoy turning ideas into polished web experiences that are fast, useful, and visually clear. My strongest work sits at the intersection of frontend development, backend architecture, and machine learning-backed features.",
